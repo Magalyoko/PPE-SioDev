@@ -1,0 +1,25 @@
+----------------------------------------------
+BTS SIO SLAM
+-----------------------------------------------
+PPE 1-2
+-----------------------------------------------
+ELABORATIONU CAHIER DES CHARGES DANS LE CADRE DE L'INSTALLATION D'UN CABINET D'AVOCATS, EN VUE DE SON INFORMATISATION
+-----------------------------------------------
+
+Ce Projet fait partie des projets PPE du groupe 3 de la classe SIO Dev de l'IMC
+
+=== Authors
+
+- Arthur "aesraethr" Anglade arthur.anglade@laposte.net
+- Magalie "" Mullot magalie.mullot@gmail.com
+- Alain "sweetboy" Cajuste cajuste.alain@gmail.com
+- Antoine "" Alexandre
+
+=== License
+
+http://www.gnu.org/licenses/agpl-3.0.txt
+
+=== Synopsis
+
+Ce projet est le point de départ du projet 1, le cahier des charges, et sera completé par la suite par des sous projets bases de données, site web, etc ...
+
