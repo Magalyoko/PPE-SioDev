@@ -1,14 +1,14 @@
-----------------------------------------------
-BTS SIO SLAM
------------------------------------------------
-PPE 1-2
------------------------------------------------
-ELABORATIONU CAHIER DES CHARGES DANS LE CADRE DE L'INSTALLATION D'UN CABINET D'AVOCATS, EN VUE DE SON INFORMATISATION
------------------------------------------------
+
+=BTS SIO SLAM
+
+=PPE 1-2
+
+==ELABORATIONU CAHIER DES CHARGES DANS LE CADRE DE L'INSTALLATION D'UN CABINET D'AVOCATS, EN VUE DE SON INFORMATISATION
+
 
 Ce Projet fait partie des projets PPE du groupe 3 de la classe SIO Dev de l'IMC
 
-=== Authors
+=== Auteurs
 
 - Arthur "aesraethr" Anglade arthur.anglade@laposte.net
 - Magalie "" Mullot magalie.mullot@gmail.com
