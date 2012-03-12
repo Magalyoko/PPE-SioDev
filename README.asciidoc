@@ -1,4 +1,3 @@
-
 = BTS SIO SLAM
 
 = PPE 1-2
@@ -11,7 +10,7 @@ Ce Projet fait partie des projets PPE du groupe 3 de la classe SIO Dev de l'IMC
 === Auteurs
 
 - Arthur "aesraethr" Anglade arthur.anglade@laposte.net
-- Magalie "" Mullot magalie.mullot@gmail.com
+- Magalie "Magalyoko" Mullot magalie.mullot@gmail.com
 - Alain "sweetboy" Cajuste cajuste.alain@gmail.com
 - Antoine "" Alexandre
 
